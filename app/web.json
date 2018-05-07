@@ -1,0 +1,15 @@
+{
+    "/home" : {
+        "controller" : "Controller@index"
+    },
+    "/about" : {
+        "controller" : "Controller@about"
+    },
+    "/user" : {
+        "controller" : "UserController@index"
+    },
+    "/" : {
+        "controller" : "Controller@index"
+    }
+    
+}
